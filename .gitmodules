@@ -1,0 +1,4 @@
+[submodule "account_aux_report"]
+	path = account_aux_report
+	url = git@github.com:mailynC/account_aux_report.git
+	branch = master
