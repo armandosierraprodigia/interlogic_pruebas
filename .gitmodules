@@ -2,3 +2,8 @@
 	path = account_aux_report
 	url = git@github.com:mailynC/account_aux_report.git
 	branch = master
+
+[submodule "journal_entry_prodigia"]
+	path = journal_entry_prodigia
+	url = git@github.com:mailynC/journal_entry_prodigia.git
+	branch = 12.0
