@@ -7,3 +7,8 @@
 	path = journal_entry_prodigia
 	url = git@github.com:mailynC/journal_entry_prodigia.git
 	branch = 12.0
+
+[submodule "warehouse_req"]
+	path = warehouse_req
+	url = git@github.com:mailynC/warehouse_req.git
+	branch = master
