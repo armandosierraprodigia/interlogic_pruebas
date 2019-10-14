@@ -12,3 +12,8 @@
 	path = warehouse_req
 	url = git@github.com:mailynC/warehouse_req.git
 	branch = master
+
+[submodule "prodigia-unique-no-series"]
+	path = prodigia-unique-no-series
+	url = git@github.com:mailynC/prodigia-unique-no-series.git
+	branch = master
