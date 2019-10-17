@@ -17,3 +17,8 @@
 	path = prodigia-unique-no-series
 	url = git@github.com:mailynC/prodigia-unique-no-series.git
 	branch = master
+
+[submodule "kardex"]
+	path = kardex
+	url = git@github.com:mailynC/kardex.git
+	branch = 12.0
