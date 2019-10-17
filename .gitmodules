@@ -27,3 +27,8 @@
 	path = prodigia_xml_to_invoice
 	url = git@github.com:mailynC/prodigia_xml_to_invoice.git
 	branch = 12.0
+
+[submodule "prodigia_supplier_invoice_validation"]
+	path = prodigia_supplier_invoice_validation
+	url = git@github.com:mailynC/prodigia_supplier_invoice_validation.git
+	branch = 12.0
